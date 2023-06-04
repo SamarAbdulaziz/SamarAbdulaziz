@@ -21,8 +21,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=darrt)&nbsp;
-![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
+![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=darrt)&nbsp;
+![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
